@@ -127,6 +127,7 @@ export default function Dashboard() {
         </GridItem>
       </GridContainer> */}
       <TextareaAutosize aria-label="empty textarea" placeholder="Empty" />
+      <TextareaAutosize aria-label="empty textarea" placeholder="Empty" />
       <GridContainer>
         <GridItem xs={12} sm={12} md={4}>
           <Card chart>
